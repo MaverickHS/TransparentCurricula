@@ -14,7 +14,7 @@ The project is motivated by the need to make educational pathways more transpare
   
 - **NeonDB:** A cloud database service employed for storing and managing the scraped data obtained through BeautifulSoup.
   
-- **Python's Psykit:** Leveraged as a machine learning library to develop a model that compares FSU coursework with other institutions, identifying and weighing curriculum gaps.
+- **Python's SciKit:** Leveraged as a machine learning library to develop a model that compares FSU coursework with other institutions, identifying and weighing curriculum gaps.
   
 - **C# with WebAPI:** Utilized for system design and user interface development. The project utilizes WebAPI, a built-in library, to create web services for seamless data access and interaction.
 
