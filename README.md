@@ -20,12 +20,12 @@ The project is motivated by the need to make educational pathways more transpare
 
 ## Contributors
 
-- [Maverick Haghighat Schiller]
-- [Danny Miranda]
-- [Charles Lakis]
-- [Christopher Mills]
+- Maverick Haghighat Schiller
+- Danny Miranda
+- Charles Lakis
+- Christopher Mills
 
 ## Acknowledgments
 
-- Special thanks to [Christopher Mills] and [Florida State University] for their contributions and support.
+- Special thanks to Christopher Mills and Florida State University for their contributions and support.
 - Inspired by the need for greater transparency in educational curricula.
